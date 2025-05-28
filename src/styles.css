@@ -1,0 +1,21 @@
+.slides-container {
+  height: 400px;
+  width: 90%;
+  margin: 10px auto;
+  outline: 1px solid red;
+}
+
+.slide {
+  height: inherit;
+  width: 100%;
+}
+
+.slide img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.hidden {
+  display: none;
+}
